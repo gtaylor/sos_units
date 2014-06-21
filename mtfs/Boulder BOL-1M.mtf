@@ -1,0 +1,135 @@
+Version:1.1
+Boulder
+BOL-1M
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:24 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:23
+RA Armor:23
+LT Armor:32
+RT Armor:32
+CT Armor:37
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:9
+1 ISLBXAC10, Left Arm, Ammo:40
+1 ISLBXAC10, Right Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISHeavyMG, Right Torso, Ammo:300
+1 ISHeavyMG, Left Torso
+1 ISHeavyMG, Left Torso
+1 ISHeavyMG, Right Torso
+1 ISHeavyMG, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISMediumLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISMediumLaser
+-Empty-
+
+Left Torso:
+ISHeavyMG
+ISHeavyMG
+ISHeavyMG Ammo (100)
+ISLBXAC10 Ammo
+ISLBXAC10 Ammo
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+
+Right Torso:
+ISHeavyMG
+ISHeavyMG
+ISHeavyMG Ammo (100)
+ISLBXAC10 Ammo
+ISLBXAC10 Ammo
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISHeavyMG
+ISHeavyMG Ammo (100)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
