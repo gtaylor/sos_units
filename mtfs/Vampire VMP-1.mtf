@@ -1,0 +1,130 @@
+Version:1.1
+Vampire
+VMP-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:55
+Engine:385 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:19
+RT Armor:19
+CT Armor:28
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:7
+RTR Armor:7
+RTC Armor:7
+
+Weapons:4
+1 ISSNPPC, Left Torso
+1 ISSNPPC, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+ISSNPPC
+ISSNPPC
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISMediumLaser
+
+Right Torso:
+Engine
+Engine
+Engine
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+ISSNPPC
+ISSNPPC
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISMediumLaser
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

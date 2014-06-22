@@ -1,0 +1,135 @@
+Version:1.1
+Punisher
+PNR-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:9
+1 ISUltraAC5, Right Torso, Ammo:100
+1 ISUltraAC5, Right Arm
+1 ISUltraAC5, Left Torso
+1 ISUltraAC5, Left Arm
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISImprovedC3CPU, Center Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISERMediumLaser
+ISUltraAC5 Ammo
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+ISUltraAC5 Ammo
+ISCASE
+
+Right Torso:
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISERMediumLaser
+ISUltraAC5 Ammo
+ISMediumLaser
+Endo-Steel
+Endo-Steel
+ISUltraAC5 Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISUltraAC5 Ammo
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

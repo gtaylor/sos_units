@@ -1,0 +1,129 @@
+Version:1.1
+Marksman
+MK-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:55
+Engine:330 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:20
+RT Armor:20
+CT Armor:27
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:3
+1 ISLightGaussRifle, Right Torso, Ammo:16
+1 ISLargeXPulseLaser, Right Arm
+1 ISMediumPulseLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+
+Left Torso:
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+Endo-Steel
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+Ferro-Fibrous
+Ferro-Fibrous
+ISLightGauss Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumPulseLaser
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

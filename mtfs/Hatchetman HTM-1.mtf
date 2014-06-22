@@ -1,0 +1,134 @@
+Version:1.1
+Hatchetman
+HTM-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:55
+Engine:220 Compact Fusion Engine
+Structure:Reinforced
+Gyro:Compact Gyro
+Cockpit:Small Cockpit
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous
+LA Armor:18
+RA Armor:18
+LT Armor:20
+RT Armor:20
+CT Armor:27
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:6
+1 Hatchet, Right Arm
+1 ISERLargeLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
+1 ISSmallLaser, Center Torso
+1 ISAntiMissileSystem, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+
+Left Torso:
+ISMediumLaser
+ISMediumLaser
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Triple Strength Myomer
+Triple Strength Myomer
+IS AMS Ammo
+
+Right Torso:
+ISERLargeLaser
+ISERLargeLaser
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Heavy Ferro-Fibrous
+Triple Strength Myomer
+Triple Strength Myomer
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISSmallLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISAntiMissileSystem
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Heavy Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Heavy Ferro-Fibrous

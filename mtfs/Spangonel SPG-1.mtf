@@ -1,0 +1,136 @@
+Version:1.1
+Spangonel
+SPG-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:60
+Engine:300 Light Fusion Engine
+Structure:Endo-Steel
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:30
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:9
+1 ISStreakSRM2, Right Torso, Ammo:50
+1 ISStreakSRM2, Left Torso
+1 ISStreakSRM2, Right Torso
+1 ISStreakSRM2, Left Torso
+1 ISLRM5, Left Arm, Ammo:72
+1 ISLRM5, Right Arm
+1 ISLRM5, Right Torso
+1 ISLRM5, Left Torso
+1 ISLRM5, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+ISLRM5
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+ISLRM5
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+ISStreakSRM2
+ISLRM5 Ammo Artemis-capable
+ISLRM5
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+ISStreakSRM2
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+ISStreakSRM2
+ISLRM5 Ammo Artemis-capable
+ISLRM5
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+ISStreakSRM2
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLRM5 Ammo Artemis-capable
+ISStreakSRM2 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISLRM5
+ISArtemisIV
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous
+-Empty-

@@ -1,0 +1,132 @@
+Version:1.1
+Meka Gojira
+GJA-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:100
+Engine:300 Light Fusion Engine
+Structure:Reinforced
+Cockpit:Small Cockpit
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Hardened
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+1 Claw, Left Arm
+1 Claw, Right Arm
+1 ISLargeXPulseLaser, Head
+1 ISSmallLaser, Center Torso
+1 ISSmallLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Claw
+Claw
+Claw
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Claw
+Claw
+Claw
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSmallLaser
+ISSmallLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer
