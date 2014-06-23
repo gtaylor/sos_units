@@ -11,4 +11,4 @@ Submitting units
 * Template something snazzy
 * Save the unit and send the SSW file to kelvin@sandsofsolaris.com
 
-.. _Solaris Skunksworks: http://www.solarisskunkwerks.com/
+.. _Solaris Skunkworks: http://www.solarisskunkwerks.com/
