@@ -22,5 +22,7 @@ subject to change.
 * No ArtemisIV for now
 * No split crits
 * No quads
+* Tech level isn't important
+* The site is Solaris themed, so it's perfectly fine if your units are quirky or odd
 
 .. _Solaris Skunkworks: http://www.solarisskunkwerks.com/
