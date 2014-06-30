@@ -1,0 +1,132 @@
+Version:1.1
+Gnat
+GNT-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3025
+Rules Level:1
+
+Mass:20
+Engine:140 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:5
+RA Armor:5
+LT Armor:8
+RT Armor:8
+CT Armor:9
+HD Armor:9
+LL Armor:7
+RL Armor:7
+RTL Armor:2
+RTR Armor:2
+RTC Armor:2
+
+Weapons:6
+1 ISMachine Gun, Left Torso, Ammo:200
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Left Torso
+1 ISSmallLaser, Left Torso
+1 ISSmallLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISSmallLaser
+
+Right Torso:
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISSmallLaser
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+ISMG Ammo (200)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
