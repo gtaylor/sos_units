@@ -1,0 +1,136 @@
+Version:1.1
+El Tigre
+ELT-1
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:4
+
+Mass:70
+Engine:350 Light Fusion Engine
+Structure:Endo-Steel
+Cockpit:Small Cockpit
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:21
+RA Armor:21
+LT Armor:22
+RT Armor:22
+CT Armor:33
+HD Armor:9
+LL Armor:27
+RL Armor:27
+RTL Armor:8
+RTR Armor:8
+RTC Armor:8
+
+Weapons:9
+1 ISLargeLaser, Left Arm
+1 ISLargeLaser, Right Arm
+1 ISLargeLaser, Head
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISAntiMissileSystem, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeLaser
+ISLargeLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISMediumLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeLaser
+ISLargeLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISMediumLaser
+
+Left Torso:
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISMediumLaser
+
+Right Torso:
+Engine
+Engine
+ISAntiMissileSystem
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Endo-Steel
+Endo-Steel
+ISMediumLaser
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+IS AMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISLargeLaser
+ISLargeLaser
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
