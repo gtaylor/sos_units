@@ -31,13 +31,14 @@ RTL Armor:10
 RTR Armor:10
 RTC Armor:15
 
-Weapons:6
-1 ISLBXAC20, Right Torso, Ammo:40
+Weapons:7
+1 ISLBXAC20, Right Torso, Ammo:35
 1 ISLBXAC20, Left Torso
 1 Sword, Right Arm
 1 ISImprovedC3CPU, Right Leg
 1 ISERMediumLaser, Left Torso
 1 ISERSmallLaser, Right Torso
+1 ISERMediumLaser, Center Torso
 
 Left Arm:
 Shoulder
@@ -104,7 +105,7 @@ Gyro
 Engine
 Engine
 Engine
-ISLBXAC20 CL Ammo
+ISERMediumLaser
 ISLBXAC20 CL Ammo
 ISLBXAC20 CL Ammo
 ISLBXAC20 CL Ammo
