@@ -1,0 +1,136 @@
+Version:1.1
+Baccarat
+BAC-5T
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:55
+Engine:220 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:14
+RT Armor:14
+CT Armor:20
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:10
+1 ISLAC2, Right Arm, Ammo:90
+1 ISLAC2, Left Arm
+1 ISLAC5, Right Arm, Ammo:40
+1 ISLAC5, Left Arm
+1 ISStreakSRM2, Left Torso, Ammo:50
+1 ISStreakSRM2, Left Torso
+1 ISStreakSRM2, Left Torso
+1 ISStreakSRM2, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISSmallLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLAC5
+ISLAC5
+ISLAC2
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLAC5
+ISLAC5
+ISLAC2
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISLAC5 Ammo
+ISLAC2 Ammo
+ISStreakSRM2 Ammo
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+ISSmallLaser
+ISLAC2 Ammo
+ISLAC5 Ammo
+Heat Sink
+Heat Sink
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
