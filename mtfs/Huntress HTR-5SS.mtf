@@ -1,0 +1,138 @@
+Version:1.1
+Huntress
+HTR-5SS
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:70
+Engine:420 Large XXL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:6
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:19
+RA Armor:19
+LT Armor:18
+RT Armor:18
+CT Armor:20
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:7
+RTR Armor:7
+RTC Armor:11
+
+Weapons:12
+1 Claw, Right Arm
+1 ISLaserAntiMissileSystem, Left Torso
+1 ISBloodhoundActiveProbe, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+1 ISERSmallLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERSmallLaser
+ISERSmallLaser
+ISERSmallLaser
+ISERSmallLaser
+ISERSmallLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Claw
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+Engine
+Engine
+Engine
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISERMediumLaser
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+ISBloodhoundActiveProbe
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

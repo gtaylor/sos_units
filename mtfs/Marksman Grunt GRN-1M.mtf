@@ -1,0 +1,129 @@
+Version:1.1
+Marksman Grunt
+GRN-1M
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:45
+Engine:180 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:14
+RA Armor:14
+LT Armor:16
+RT Armor:16
+CT Armor:21
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:6
+RTR Armor:6
+RTC Armor:6
+
+Weapons:3
+1 ISMRM10, Right Torso, Ammo:24
+1 ISSmallPulseLaser, Head
+1 ISLightGaussRifle, Left Arm, Ammo:32
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISLightGauss Ammo
+ISLightGauss Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Heat Sink
+-Empty-
+ISMRM10
+ISMRM10
+ISMRM10 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallPulseLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

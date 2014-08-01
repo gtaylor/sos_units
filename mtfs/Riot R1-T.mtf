@@ -1,0 +1,133 @@
+Version:1.1
+Riot
+R1-T
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:25
+Engine:75 I.C.E. Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:0 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:8
+RA Armor:8
+LT Armor:9
+RT Armor:9
+CT Armor:12
+HD Armor:8
+LL Armor:12
+RL Armor:12
+RTL Armor:3
+RTR Armor:3
+RTC Armor:4
+
+Weapons:7
+1 ISLaserAntiMissileSystem, Left Torso
+1 ISBeagleActiveProbe, Left Torso
+1 ISMagshotGR, Right Torso, Ammo:50
+1 ISMagshotGR, Right Torso
+1 ISLightMG, Left Arm, Ammo:200
+1 ISLightMG, Left Arm
+1 ISSRM2, Right Arm, Ammo:50
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLightMG
+ISLightMG
+ISLightMG Ammo (200)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISSRM2
+ISSRM2 Ammo Inferno
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISLaserAntiMissileSystem
+ISLaserAntiMissileSystem
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+ISMagshotGR
+IS Magshot GR Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

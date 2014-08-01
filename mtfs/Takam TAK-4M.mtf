@@ -1,0 +1,129 @@
+Version:1.1
+Takam
+TAK-4M
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:4
+
+Mass:35
+Engine:105 Fusion Engine
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:6
+RA Armor:6
+LT Armor:9
+RT Armor:9
+CT Armor:10
+HD Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:2
+RTR Armor:2
+RTC Armor:3
+
+Weapons:3
+1 ISLBXAC5, Right Torso, Ammo:20
+1 ISLAC5, Right Torso, Ammo:20
+1 ISERLargeLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+
+Left Torso:
+ISERLargeLaser
+ISERLargeLaser
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLBXAC5
+ISLAC5
+ISLAC5
+ISLBXAC5 CL Ammo
+ISLAC5 Ammo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Endo-Steel
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+Triple Strength Myomer
