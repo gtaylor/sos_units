@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Bakhtak" model="BKT-7KA" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1369</battle_value>
-    <cost>7570749.999999999</cost>
-    <rules_level>2</rules_level>
+    <battle_value>1406</battle_value>
+    <cost>7525749.999999999</cost>
+    <rules_level>3</rules_level>
     <era>4</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>Rand</source>
-        <info>Bakhtak BKT-7KA 50t, 4/6/4, XLFE, Std; 9.5T/90% Armor; 13 DHS; 2 MML3, 3 ERML, 2 LPPC, 1 ERPPC</info>
+        <info>Bakhtak BKT-7KA 50t, 4/6/4, XLFE, Std; 9.5T/90% Armor; 13 DHS; 3 ERML, 2 LRM5, 2 LPPC, 1 ERPPC</info>
         <battleforce pv="14" wt="2" mv="4j" s="3" m="3" l="2" e="0" ov="2" armor="5" internal="2" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
@@ -75,26 +75,6 @@
             <location index="2">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) MML-3</name>
-            <type>missile</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) MML-3</name>
-            <type>missile</type>
-            <location index="3">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-3 (LRM)</name>
-            <type>ammunition</type>
-            <location index="5">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-3 (SRM)</name>
-            <type>ammunition</type>
-            <location index="5">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
             <location index="7">RA</location>
@@ -103,6 +83,21 @@
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
             <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5 (Swarm)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
         </equipment>
     </baseloadout>
     <fluff>

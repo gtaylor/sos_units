@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Bakhtak" model="BKT-7K" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1300</battle_value>
-    <cost>7333749.999999999</cost>
+    <battle_value>1329</battle_value>
+    <cost>7288749.999999999</cost>
     <rules_level>2</rules_level>
     <era>4</era>
     <productionera>0</productionera>
@@ -34,8 +34,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>Rand</source>
-        <info>Bakhtak BKT-7K 50t, 4/6/4, XLFE, Std; 9.5T/90% Armor; 10 DHS; 3 ERML, 1 ERPPC, 2 MML9</info>
-        <battleforce pv="13" wt="2" mv="4j" s="3" m="2" l="1" e="0" ov="2" armor="5" internal="2" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <info>Bakhtak BKT-7K 50t, 4/6/4, XLFE, Std; 9.5T/90% Armor; 10 DHS; 3 ERML, 2 LRM10, 1 ERPPC, 2 SRM2</info>
+        <battleforce pv="13" wt="2" mv="4j" s="2" m="2" l="1" e="0" ov="2" armor="5" internal="2" abilities="SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -51,26 +51,6 @@
             <location index="9">RT</location>
             <location index="9">LT</location>
         </heatsinks>
-        <equipment>
-            <name manufacturer="">(IS) MML-9</name>
-            <type>missile</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) MML-9</name>
-            <type>missile</type>
-            <location index="3">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-9 (LRM)</name>
-            <type>ammunition</type>
-            <location index="8">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-9 (SRM)</name>
-            <type>ammunition</type>
-            <location index="8">RT</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(IS) ER Medium Laser</name>
             <type>energy</type>
@@ -90,6 +70,36 @@
             <name manufacturer="">(IS) ER PPC</name>
             <type>energy</type>
             <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10 (Swarm)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2 (Inferno)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
         </equipment>
     </baseloadout>
     <fluff>
