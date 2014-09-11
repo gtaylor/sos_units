@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Griffin" model="GRF-3DS" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Gryphon" model="GRF-2D" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1727</battle_value>
-    <cost>1.0225556666666668E7</cost>
+    <battle_value>1295</battle_value>
+    <cost>4871856.666666667</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>0</productionera>
@@ -10,24 +10,10 @@
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">0</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="0">
-        <type>Endo-Steel</type>
-        <location index="4">LA</location>
-        <location index="5">LA</location>
-        <location index="6">LT</location>
-        <location index="6">LA</location>
-        <location index="7">LT</location>
-        <location index="7">LA</location>
-        <location index="8">LT</location>
-        <location index="8">LA</location>
-        <location index="8">RA</location>
-        <location index="9">LT</location>
-        <location index="9">LA</location>
-        <location index="9">RA</location>
-        <location index="10">LT</location>
-        <location index="11">LT</location>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
     </structure>
-    <engine rating="275" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <engine rating="275" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
@@ -48,8 +34,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>Rand</source>
-        <info>Griffin GRF-3DS 55t, 5/8/5, XLFE, ES; 9.5T/82% Armor; 12 DHS; 1 HPPC, 1 MRM40</info>
-        <battleforce pv="17" wt="2" mv="5j" s="3" m="4" l="2" e="0" ov="0" armor="5" internal="3" abilities="SRCH, ES, SEAL, SOA" />
+        <info>Gryphon GRF-2D 55t, 5/8/5, Std FE, Std; 9.5T/82% Armor; 12 SHS; 4 SL, 1 PPC, 2 LRM5</info>
+        <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">
@@ -60,30 +46,50 @@
             <location index="4">RL</location>
             <location index="5">RL</location>
         </jumpjets>
-        <heatsinks number="12" techbase="0">
-            <type>Double Heat Sink</type>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
 
-            <location index="3">LT</location>
+            <location index="11">CT</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(IS) MRM-40</name>
-            <type>missile</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MRM-40</name>
-            <type>ammunition</type>
-            <location index="11">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Heavy PPC</name>
+            <name manufacturer="">(IS) PPC</name>
             <type>energy</type>
             <location index="4">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(IS) @ MRM-40</name>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
             <type>ammunition</type>
-            <location index="10">RT</location>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
         </equipment>
     </baseloadout>
     <fluff>

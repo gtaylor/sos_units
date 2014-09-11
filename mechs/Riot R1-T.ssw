@@ -2,7 +2,7 @@
 <mech name="Riot" model="R1-T" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>474</battle_value>
-    <cost>1538437.5</cost>
+    <cost>1660625.0</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>0</productionera>
@@ -13,7 +13,7 @@
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
     </structure>
-    <engine rating="75" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <engine rating="75" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
@@ -34,13 +34,22 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>Rand</source>
-        <info>Riot R1-T 25t, 3/5/0, ICE, Std; 5.5T/99% Armor; 0 SHS; 1 LAMS, 2 MSGR, 1 BAP, 2 LMG, 1 SRM2</info>
-        <battleforce pv="5" wt="1" mv="3" s="0" m="0" l="0" e="0" ov="1" armor="3" internal="2" abilities="AMS, PRB, RCN, SRCH, EE, ES, SEAL, SOA" />
+        <info>Riot R1-T 25t, 3/5/0, Std FE, Std; 5.5T/99% Armor; 12 SHS; 1 LAMS, 2 MSGR, 1 BAP, 2 LMG, 1 SRM2</info>
+        <battleforce pv="5" wt="1" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="AMS, PRB, RCN, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
-        <heatsinks number="0" techbase="2">
+        <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
 
+            <location index="5">RT</location>
+            <location index="4">LT</location>
+            <location index="5">LT</location>
+            <location index="6">RT</location>
+            <location index="6">LT</location>
+            <location index="7">RT</location>
+            <location index="7">LT</location>
+            <location index="8">RT</location>
+            <location index="8">LT</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(IS) Laser Anti-Missile System</name>
