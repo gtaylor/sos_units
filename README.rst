@@ -35,18 +35,20 @@ The SoS style
 
 While it's unfortunate that we weren't able to use FASA mechs, there are some positives.
 The power creep over time with the FASA units has been very pronounced. This makes sense
-when set within the context of the greater Battletech universe, but lowertech ends up
-being sub-par.
+when set within the context of the greater Battletech universe, but we'd end up with
+artificial tiers in a game like SoS. Rather than restrict players to certain tech
+levels for certain matches, we'd like to just keep things open when possible.
 
 What we'd like to do with SoS is avoid creating clear winners and losers in our human
-pool mechs. We'd like all of our human pool mechs to have a purpose and useful strengths.
+pool mechs. We'd like all of our human pool mechs to be viable in their given role.
 If we are successful, we'll have a good deal of variety in what our players are fielding.
 
 One of the most important parts of keeping our unit power levels under control is
 managing the usage of advanced techs. Put simply, any given unit should be *mostly*
 lowertech, with a slight sprinkling of newtech. For example, perhaps you have an ERPPC
 and some conventional laers. Or some ACs and an ELRM. What you won't see is a 
-straight pulseboat, or TSM + XL + Super heavy + loads of armor/weapons.
+straight pulseboat, or TSM + XL + Super heavy + loads of armor/weapons. Or targeting
+computers + pulse, or TC/LolPulse + C3i.
 
 *We are looking for a tasteful blending of oldtech and newtech.*
 
