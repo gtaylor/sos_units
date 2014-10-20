@@ -17,7 +17,8 @@ Custom unit guidelines
 A lot of these are due to limitations in our converter, so these are
 subject to change.
 
-* No clantech yet.
+* No clantech.
+* No ICE mechs.
 * See here for a full list of available weapons: https://github.com/gtaylor/btmux_template_io/blob/master/btmux_template_io/item_table.py
 * No split crits.
 * No quads.
