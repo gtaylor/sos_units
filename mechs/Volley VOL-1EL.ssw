@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Volley" model="VOL-1EL" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1550</battle_value>
+    <cost>1.985529E7</cost>
+    <rules_level>3</rules_level>
+    <era>4</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">0</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="285" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>25</ct>
+        <ctr>6</ctr>
+        <lt>19</lt>
+        <ltr>5</ltr>
+        <rt>19</rt>
+        <rtr>5</rtr>
+        <la>15</la>
+        <ra>15</ra>
+        <ll>21</ll>
+        <rl>21</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <info>Volley VOL-1EL 95t, 3/5/0, XLFE, Std; 10.0T/55% Armor; 14 DHS; 1 LL, 2 ExLRM20</info>
+        <battleforce pv="16" wt="4" mv="3" s="2" m="3" l="3" e="0" ov="1" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA, IF 2" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="14" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="8">RT</location>
+            <location index="6">LT</location>
+            <location index="9">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Extended LRM-20</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Extended LRM-20</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-20</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

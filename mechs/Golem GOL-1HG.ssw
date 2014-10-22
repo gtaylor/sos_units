@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Golem" model="GOL-1HG" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1787</battle_value>
+    <cost>8793080.833333334</cost>
+    <rules_level>3</rules_level>
+    <era>4</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">0</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="340" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>8</ctr>
+        <lt>25</lt>
+        <ltr>7</ltr>
+        <rt>25</rt>
+        <rtr>7</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <info>Golem GOL-1HG 85t, 4/6/0, Std FE, Std; 13.0T/79% Armor; 10 DHS; 3 ML, 3 SL, 1 HGR, 1 SRM4</info>
+        <battleforce pv="18" wt="4" mv="4" s="5" m="5" l="1" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Heavy Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>
